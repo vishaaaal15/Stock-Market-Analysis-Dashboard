@@ -42,6 +42,7 @@ The objective of this project is to:
 * Data Cleaning
 * Data Visualization
 * KPI Reporting
+* Tableau
 
 ---
 
@@ -116,4 +117,4 @@ It reflects strong analytical thinking, dashboarding capability, and business un
 
 Vishal Singh
 
-Aspiring Data Analyst | Power BI | SQL | Excel | Python
+Aspiring Data Analyst | Power BI | SQL | Excel | Python | Tableau
