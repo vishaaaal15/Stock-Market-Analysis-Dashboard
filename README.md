@@ -131,9 +131,9 @@ The primary objectives of this dashboard are to:
 ---
 
 # 🖥 Dashboard Preview
-![Excel_Dashboard](images/Excel_Dashboard.png)
-![PowerBI_Dashboard](images/PowerBI_Dashboard.png)
-![Tableau_Dashboard](images/Tableau_Dashboard.png)
+![Excel_Dashboard](images/Excel_Dashboard_Screenshot.png)
+![PowerBI_Dashboard](images/PowerBI_Dashboard_Screenshot.png)
+![Tableau_Dashboard](images/Tableau_Dashboard_Screenshot.png)
 
 
 
